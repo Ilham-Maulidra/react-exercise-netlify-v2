@@ -1,7 +1,6 @@
 import React from "react";
 
 const Home = () => {
-  console.log($(".studentName").text(), $(".studentId").text());
   return (
     <>
       <div className="home">
